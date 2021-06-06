@@ -1,7 +1,7 @@
 {
   "name": "github-starred-repos-to-raindrop-io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Add all of your starred repos to raindrop.io",
   "main": "index.js",
   "type": "module",
   "scripts": {

@@ -169,7 +169,7 @@ async function createNewRainDropsMultiple() {
 // 2 - Then run this one...
 // readAndParseGithubData()
 
-// 3 - And lastly, this one!
+// 3 - And lastly, this one! (Choose the one that you prefer!)
 // createNewRainDrops({
 //   collectionId: number,
 //   title: string,
@@ -179,7 +179,7 @@ async function createNewRainDropsMultiple() {
 //   excerpt: string
 // }) // Single
 // createNewRainDrops() // Multiple by single loop
-createNewRainDropsMultiple() // Multiple by 100's
+// createNewRainDropsMultiple() // Multiple by 100's
 
 // 4 - Now check your raindrops.io account and all the bookmarks should be there! ;)
 // https://app.raindrop.io
